@@ -1,6 +1,6 @@
 ---
 
-```markdown
+
 # pfSense Home Lab Firewall
 
 ## Overview
@@ -93,3 +93,4 @@ The screenshots directory contains:
 ## Project Summary
 
 This lab provided hands-on experience with deploying and operating a pfSense firewall in a controlled environment. The project reinforces foundational network security concepts and firewall administration skills relevant to entry-level SOC and security analyst roles.
+
